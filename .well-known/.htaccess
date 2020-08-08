@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-	RewriteEngine off
-</IfModule>
-Require all granted
-Satisfy any
